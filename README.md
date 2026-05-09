@@ -1,4 +1,4 @@
-ATM Management System 💳
+**ATM Management System** 💳
 
 A simple ATM Management System built using Python Tkinter GUI.
 This project simulates basic ATM operations such as login authentication, balance checking, cash deposit, withdrawal, and transaction history management.
