@@ -23,7 +23,7 @@ Account Number	PIN
 
 How to Run ▶️
 1. Clone the repository
-2. git clone https://github.com/your-username/ATM-Management-System.git
+2. git clone this repository
 3. Navigate to the project folder
 4. cd ATM-Management-System
 5. Run the Python file
