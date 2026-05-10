@@ -4,22 +4,24 @@ A simple ATM Management System built using Python Tkinter GUI.
 This project simulates basic ATM operations such as login authentication, balance checking, cash deposit, withdrawal, and transaction history management.
 
 Features ✨
-🔐 Secure Login System using Account Number & PIN
-💰 Check Account Balance
-➕ Deposit Money
-➖ Withdraw Money
-📜 Transaction History
-🚪 Logout Functionality
-🖥️ User-Friendly Tkinter GUI 
+
+* 🔐 Secure Login System using Account Number & PIN
+* 💰 Check Account Balance
+* ➕ Deposit Money
+*➖ Withdraw Money
+* 📜 Transaction History
+* 🚪 Logout Functionality
+* 🖥️ User-Friendly Tkinter GUI 
 
 Technologies Used 🛠️
-Python 3
-Tkinter (GUI Library)
-Datetime Module
 
-Demo Account 🔑
-Account Number	PIN
-12345	1234
+* Python 3
+* Tkinter (GUI Library)
+* Datetime Module
+
+1. Demo Account 🔑
+2. Account Number	PIN
+3. 12345	1234
 
 How to Run ▶️
 1. Clone the repository
@@ -29,13 +31,14 @@ How to Run ▶️
 5. Run the Python file
 
 Future Improvements 🚀
-Multiple User Accounts
-Database Integration (SQLite/MySQL)
-PIN Change Feature
-Receipt Generation
-Admin Panel
-Dark Mode UI
-Account Registration System
+
+* Multiple User Accounts
+* Database Integration (SQLite/MySQL)
+* PIN Change Feature
+* Receipt Generation
+* Admin Panel
+* Dark Mode UI
+* Account Registration System
 
 Author 👨‍💻
 
